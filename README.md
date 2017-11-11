@@ -1,1 +1,2 @@
-# oddGo.github.io
+# SIGHT
+Free Responsive Web Template
